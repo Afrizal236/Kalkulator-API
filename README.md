@@ -196,9 +196,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Kontak
 
-**Developer**: [Nama Anda]
-**Email**: [email@example.com]
-**Project Link**: [repository-url]
+**Developer**: Ramy Diaman
+**Email**: ramydiaman@gmail.com
 
 ---
 
